@@ -1,0 +1,29 @@
+{
+    "avoidingSpikes": {
+        "checkpoints": [
+            {
+                "steps": 5214,
+                "file_path": "results\\Brain\\avoidingSpikes\\avoidingSpikes-5214.onnx",
+                "reward": 0.10526315789473684,
+                "creation_time": 1683826104.9122174,
+                "auxillary_file_paths": [
+                    "results\\Brain\\avoidingSpikes\\avoidingSpikes-5214.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5214,
+            "file_path": "results\\Brain\\avoidingSpikes.onnx",
+            "reward": 0.10526315789473684,
+            "creation_time": 1683826104.9122174,
+            "auxillary_file_paths": [
+                "results\\Brain\\avoidingSpikes\\avoidingSpikes-5214.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
